@@ -42,8 +42,8 @@ int main() {
     scanf("%f", &pib);
   printf("Pontos turísticos: ");
     scanf("%d", &pontos_tur);
-  
   // Área para exibição dos dados da idade
+  
 
 return 0;
 } 
